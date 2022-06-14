@@ -7,10 +7,7 @@ import (
 func main() {
 	const (
 		priceApple = 5.99
-		pricePear  = 7.00
-		b          = "hello"
-		c          = true
-		e          = 1234.3456
+		pricePear  = 7
 	)
 	fmt.Println("Hello")
 }
